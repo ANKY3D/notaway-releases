@@ -5,19 +5,33 @@
 **Votre second cerveau tout-en-un, souverain, ultra-rapide et 100% hors-ligne.**  
 *Your all-in-one, sovereign, lightning-fast, and 100% offline second brain.*
 
-[![Site Officiel](https://img.shields.io/badge/Site%20Officiel-notaway.fr-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://notaway.fr)
-[![Version](https://img.shields.io/badge/Version-v0.7.0-indigo?style=for-the-badge)](https://github.com/ANKY3D/notaway-releases/releases/latest)
-[![Langues](https://img.shields.io/badge/Langues-FR%20%7C%20EN-e11d48?style=for-the-badge)](https://notaway.fr)
-[![100% Gratuit](https://img.shields.io/badge/100%25%20Gratuit-Non%20Commercial-10b981?style=for-the-badge)](https://notaway.fr)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20(x64)-0284c7?style=for-the-badge&logo=windows)](https://github.com/ANKY3D/notaway-releases/releases/latest)
-[![Tauri v2](https://img.shields.io/badge/Tauri-v2%20(Rust)-ea580c?style=for-the-badge&logo=tauri)](https://tauri.app/)
-
 <br />
 
-### 🌐 [Découvrir l'application sur le Site Officiel (notaway.fr)](https://notaway.fr)
-### ⬇️ [Télécharger Notaway pour Windows (.exe)](https://github.com/ANKY3D/notaway-releases/releases/latest)
+<!-- Ligne 1 : Statut du Projet & Transparence IA -->
+[![Version](https://img.shields.io/badge/Version-v0.7.5-6366f1?style=for-the-badge)](https://github.com/ANKY3D/notaway-releases/releases/latest)
+[![Vibe Coded with Gemini](https://img.shields.io/badge/Vibe%20Coded%20with-Gemini%203.8%20Flash-8b5cf6?style=for-the-badge&logo=googlegemini&logoColor=white)](https://notaway.fr)
+[![100% Gratuit](https://img.shields.io/badge/100%25%20Gratuit-Non%20Commercial-10b981?style=for-the-badge)](https://notaway.fr)
 
-*(Installation instantanée, aucune création de compte requise, mises à jour automatiques en 1 clic)*
+<!-- Ligne 2 : Plateforme & Stack Technique -->
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20(x64)-0284c7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ANKY3D/notaway-releases/releases/latest)
+[![Tauri v2](https://img.shields.io/badge/Tauri%20v2-Rust%20%26%20React-ea580c?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app/)
+[![Langues](https://img.shields.io/badge/Langues-FR%20%7C%20EN-e11d48?style=for-the-badge)](https://notaway.fr)
+
+<br />
+<br />
+
+<!-- Actions Principales (Call to Action) -->
+<p align="center">
+  <a href="https://github.com/ANKY3D/notaway-releases/releases/latest">
+    <img src="https://img.shields.io/badge/⬇️_Télécharger_pour_Windows-v0.7.5_(.exe)-6366f1?style=for-the-badge&logo=windows&logoColor=white" alt="Télécharger Notaway pour Windows" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://notaway.fr">
+    <img src="https://img.shields.io/badge/🌐_Explorer_le_Site_Web-notaway.fr-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Officiel Notaway" />
+  </a>
+</p>
+
+<sub>⚡ **Installation instantanée** &nbsp;•&nbsp; 🛡️ **Zéro compte, 100% Hors-ligne** &nbsp;•&nbsp; 🔄 **Mises à jour automatiques en 1 clic**</sub>
 
 </div>
 
@@ -61,7 +75,8 @@ Notaway rassemble l'ensemble de vos activités au sein d'une interface unifiée,
 | **📊 Tableur & Mini-BDD** | Feuilles de calcul locales et structurées (textes, nombres, devises €, statuts, dates, cases à cocher), calculs automatiques (sommes, moyennes), tris, filtres et **export CSV natif universel** compatible Excel et Calc. |
 | **🖼️ Moodboard** | Murs d'inspiration et collections visuelles pour rassembler, agencer et annoter vos références graphiques, captures d'écran et médias locaux. |
 | **🎨 Palettes Chromatiques** | Générateur de palettes harmoniques, roue des couleurs, extraction chromatique et export de nuanciers. |
-| **💼 Finances & Comptabilité** | Suivi complet des flux de revenus et dépenses (Steam, Tebex, prestations...), catégories personnalisables, tableau de bord synthétique, aide à la déclaration et **export CSV universel**. |
+| **💼 Finances, Devis & Factures** | Suivi complet des recettes et dépenses (Steam, Tebex, prestations...), **devis et facturation express** (catalogue de prestations sur-mesure réutilisables, mémorisation en 1 clic, conversion devis en facture, synchronisation directe des encaissements), **impression et export PDF A4 haute fidélité** (calage haut parfait, zéro filigrane ni coupure), tableau de bord synthétique, aide à la déclaration et **export CSV universel**. |
+| **⚡ Profils d'Espaces (Presets)** | Configuration personnalisée de vos modules en 1 clic selon votre profil métier (Polyvalent, Créatif & Design, Développeur & Tech, Freelance & Gestion, Étudiant ou Minimaliste) pour une interface épurée et sans distraction. |
 | **📅 Calendrier & Échéances** | Vue mensuelle claire synchronisée automatiquement avec les dates d'échéance de l'ensemble de vos tableaux de tâches et projets. |
 | **⚡ Quick Tools** | Boîte à outils instantanée accessible à tout moment dans l'application :<br>• **Texture Ripper** : correction de perspective, redressement de surfaces courbées, filtres rétro PSX et générateur d'atlas / spritesheets.<br>• **Calculatrice Intelligente** : calculs avec variables en direct et pourcentages.<br>• **Convertisseur universel** : unités, devises, résolutions et densités.<br>• **Snippets** : bibliothèque d'extraits de code et textes réutilisables.<br>• **Générateur d'icônes & App Icons** : conversion et export d'icônes multi-plateformes.<br>• **Lecteur de bruit Sound FX** : ambiances sonores et bruits continus pour la concentration.<br>• **Minuteur Pomodoro** : cycles de travail et de pause configurables.<br>• **Marque-pages & Favoris** : accès direct à vos liens clés. |
 | **🔍 Recherche Universelle** | Moteur de recherche instantané à indexation locale accessible d'un raccourci (<kbd>Ctrl</kbd> + <kbd>K</kbd>) pour retrouver n'importe quel document ou tâche en quelques millisecondes. |
@@ -70,7 +85,7 @@ Notaway rassemble l'ensemble de vos activités au sein d'une interface unifiée,
 
 ## 🚀 Prise en main en 30 secondes
 
-1. **Rendez-vous sur [notaway.fr](https://notaway.fr)** ou téléchargez directement l'installateur : **[Notaway_x.x.x_x64-setup.exe](https://github.com/ANKY3D/notaway-releases/releases/latest)**.
+1. **Rendez-vous sur [notaway.fr](https://notaway.fr)** ou téléchargez directement l'installateur : **[Notaway_0.7.5_x64-setup.exe](https://github.com/ANKY3D/notaway-releases/releases/latest)**.
 2. **Lancez l'installateur** : l'installation s'effectue en quelques secondes sur Windows 10 ou 11 (aucun droit administrateur nécessaire).
 3. **Choisissez votre dossier de travail** : au premier lancement, sélectionnez simplement le répertoire de votre disque dur où vous souhaitez ranger vos documents (disque local, dossier synchronisé personnel, etc.).
 4. **C'est tout !** Votre espace de travail est prêt, bilingue, 100% sécurisé et immédiatement opérationnel.
