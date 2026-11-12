@@ -3,7 +3,6 @@
 # 🌌 Notaway
 
 **Your all-in-one, sovereign, lightning-fast, and 100% offline second brain.**  
-*Votre second cerveau tout-en-un, souverain, ultra-rapide et 100% hors-ligne.*
 
 <br />
 
