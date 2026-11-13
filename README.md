@@ -7,7 +7,7 @@
 <br />
 
 <!-- Row 1: Project Status & AI Transparency -->
-[![Version](https://img.shields.io/badge/Version-v0.7.5-6366f1?style=for-the-badge)](https://github.com/ANKY3D/notaway-releases/releases/latest)
+[![Version](https://img.shields.io/badge/Version-v0.7.6-6366f1?style=for-the-badge)](https://github.com/ANKY3D/notaway-releases/releases/latest)
 [![Vibe Coded with Gemini](https://img.shields.io/badge/Vibe%20Coded%20with-Gemini%203.8%20Flash-8b5cf6?style=for-the-badge&logo=googlegemini&logoColor=white)](https://notaway.fr)
 [![100% Free](https://img.shields.io/badge/100%25%20Free-Non%20Commercial-10b981?style=for-the-badge)](https://notaway.fr)
 
