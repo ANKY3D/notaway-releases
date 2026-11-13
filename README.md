@@ -22,7 +22,7 @@
 <!-- Main Call-to-Action Buttons -->
 <p align="center">
   <a href="https://github.com/ANKY3D/notaway-releases/releases/latest">
-    <img src="https://img.shields.io/badge/⬇️_Download_for_Windows-v0.7.5_(.exe)-6366f1?style=for-the-badge&logo=windows&logoColor=white" alt="Download Notaway for Windows" />
+    <img src="https://img.shields.io/badge/⬇️_Download_for_Windows-v0.7.6_(.exe)-6366f1?style=for-the-badge&logo=windows&logoColor=white" alt="Download Notaway for Windows" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://notaway.fr">
@@ -84,7 +84,7 @@ Notaway unites your entire workflow inside a unified, distraction-free dark inte
 
 ## 🚀 Getting Started in 30 Seconds
 
-1. **Visit [notaway.fr](https://notaway.fr)** or directly download the Windows installer: **[Notaway_0.7.5_x64-setup.exe](https://github.com/ANKY3D/notaway-releases/releases/latest)**.
+1. **Visit [notaway.fr](https://notaway.fr)** or directly download the Windows installer: **[Notaway_0.7.6_x64-setup.exe](https://github.com/ANKY3D/notaway-releases/releases/latest)**.
 2. **Run the installer**: Installs in seconds on Windows 10 or 11 (no admin privileges required).
 3. **Choose your workspace directory**: On first launch, pick any local directory where you want to keep your documents (local SSD, personal synced drive, etc.).
 4. **You're all set!** Your private, bilingual, offline workspace is instantly ready.
